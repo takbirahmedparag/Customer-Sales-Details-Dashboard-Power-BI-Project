@@ -49,7 +49,9 @@ I also improved my understanding of visual selection, like when to use donut cha
 3.	Created relationships between tables (Data Modeling)
 4.	Built DAX measures for customer analysis
 5.	Designed dashboard with proper visuals and slicers
-## Image    
+## Image
+![image alt](https://github.com/takbirahmedparag/Customer-Sales-Details-Dashboard-Power-BI-Project/blob/main/Screenshot%202026-04-03%20121208.png
+)
 
 ## Challenges
 •	Creating per-customer and percentage-based measures
